@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M4aFCjDDHr5/xlOKlTKoG4gYso5KZTFhm619N2tjwP2UwFjYBzNwoXnVSBd+9QFGukUdyJqu8Qm0llBu+tn5BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Demo\\Demo\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\grpc.core\\2.46.3\\grpc.core.2.46.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\grpc.core.api\\2.46.3\\grpc.core.api.2.46.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
